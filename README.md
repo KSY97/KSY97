@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 프로필 [자세히 보기](https://grateful-stealer-3b8.notion.site/_-e2551bc33cf3473f8b082b4307570d92)
 
+📧 Email : ggomadvlp@gmail.com
+
 A developer who enjoys challenges.
 - 새 분야에 도전하는것을 즐기는 개발자
 - 맡은일에 몰입하여 책임감있게 목표를 달성
