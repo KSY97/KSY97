@@ -21,7 +21,7 @@ A developer who enjoys challenges.
 - 원활한 커뮤니케이션 능력으로 팀원들과 함께 문제해결
 
 ## 💻 Languages
-<img src="https://img.shields.io/badge/#3776AB?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 ## 🛠 Development Tools 
 
