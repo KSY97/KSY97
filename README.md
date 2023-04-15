@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # 권순용(Soon-Yong, Kwon)
 
 프로필 [자세히 보기](https://grateful-stealer-3b8.notion.site/_-e2551bc33cf3473f8b082b4307570d92)
+
 A developer who enjoys challenges.
 - 새 분야에 도전하는것을 즐기는 개발자
 - 맡은일에 몰입하여 책임감있게 목표를 달성
@@ -24,7 +25,7 @@ A developer who enjoys challenges.
 ## 💻 Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 📖 Learning...
+## 📖 Learning...
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
 ## 🏗️ Framework
