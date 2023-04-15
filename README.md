@@ -36,5 +36,5 @@ A developer who enjoys challenges.
 ## 🛠 Development Tools
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=&logoColor=white"/>
 
-
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSY97&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSY97&layout=&theme=radical)
