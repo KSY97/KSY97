@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 프로필
+# 프로필
 
 A developer who enjoys challenges.
 - 새 분야에 도전하는것을 즐기는 개발자
 - 맡은일에 몰입하여 책임감있게 목표를 달성
 - 원활한 커뮤니케이션 능력으로 팀원들과 함께 문제해결
 
-###Languages
+## Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSY97&show_icons=true&theme=radical)
