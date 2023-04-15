@@ -24,7 +24,7 @@ A developer who enjoys challenges.
 - 맡은일에 몰입하여 책임감있게 목표를 달성
 - 원활한 커뮤니케이션 능력으로 팀원들과 함께 문제해결
 
-![trophy](https://github-profile-trophy.vercel.app/?username=KSY97)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=KSY97)
 
 ## 💻 Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
